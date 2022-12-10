@@ -17,3 +17,6 @@ This repository is my submission for a class Learn to Make iOS Applications for 
 - [Swift](https://swift.org/documentation)
 - [UIKit](https://api.rawg.io/docs)
 - [Foundation](https://developer.apple.com/documentation/foundation)
+
+### Design Pattren
+-  MVC (Model-View-Controller)
